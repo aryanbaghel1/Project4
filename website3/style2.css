@@ -1,0 +1,101 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background: url(science\ website.jpg);
+    color: white;
+
+}
+.left{
+    position: absolute;
+    display: inline-block;
+}
+.left img{
+    height: 100px;
+    width: 125px;
+    margin: 2px 2px;
+    padding: 3px 3px;
+}
+.navbar1{
+    color: rgb(41, 196, 118);
+    font-size: 20px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.center{
+    width: 70%;
+    display: block;
+    margin: 10px auto;
+}
+.right{
+    position: absolute;
+    margin: 10px;
+    top: 25px;
+    right: 15px;
+}
+.navbar{
+    display: inline-block;
+    background-color: #294f49;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.navbar li {
+    
+    display: inline-block;
+    margin: 10px 10px;
+    padding: 2px 5px;
+}
+.navbar li a{
+    color: magenta;
+    text-decoration: none;
+    font-size: 25px;
+    margin: 10px 2px;
+}
+.navbar li a:hover{
+    color: blue;
+    text-decoration: underline;
+}
+.btn a{
+    text-decoration: none;
+    color: rgb(32, 194, 81);
+    font-size: 18px;
+    margin: 3px -3px;
+    padding: 3px 3px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.btn a:hover{
+    color: orangered;
+
+}
+.dtn a{
+    text-decoration: none;
+    color: rgb(32, 194, 81);
+    font-size: 18px;
+    margin: 3px -3px;
+    padding: 3px 3px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.dtn a:hover{
+    color: orangered;
+}
+
+.vijay{
+    width: 70%;
+    text-align: center;
+    display: block;
+    margin: 2px auto;
+    margin: 150px 200px;
+    text-transform: uppercase;
+    font-size: 50px;
+}
+h4{
+    width: 80%;
+    margin: 20px auto;
+    margin: 100px 100px;
+    margin: -93px 220px;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.navbar1:hover{
+    color: rgb(42, 192, 202);
+    text-decoration: underline;
+}
